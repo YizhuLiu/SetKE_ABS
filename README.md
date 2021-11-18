@@ -5,4 +5,6 @@ As we implement our approaches by extending [HIBERT](https://xingxingzhang.githu
 the codes of our paper will be updated accordingly.
 The results of the latest reproduction may be different from those of the paper.
 
+Our best results of the published version can be downloaded from output_publication.
+
 Coming soon...
