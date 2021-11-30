@@ -1,3 +1,3 @@
-Extractor: Keyword-aware HIBERT
+Extractor: HIBERT
 
 Abstractor: BART
