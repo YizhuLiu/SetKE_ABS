@@ -1,3 +1,0 @@
-Extractor: HIBERT
-
-Abstractor: BART
